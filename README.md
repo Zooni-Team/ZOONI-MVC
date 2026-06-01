@@ -91,11 +91,11 @@ Zooni no solo digitaliza, **humaniza**: cada mascota tiene una historia y la app
 
 ## 🧑‍💻 Equipo
 
-**Theo Trosman** — Project Leader and Branding
-**Ignacio Eskenazi** — UX / UI Design  
-**Santiago Dobrovitsky** — Fullstack Developer
-**Lucas Dueñaz** — Investigación, redacción y estructura  
-**Lior Tanel** — Fullstack Developer
+- **Theo Trosman** — Project Leader and Branding
+- **Ignacio Eskenazi** — UX / UI Design  
+- **Santiago Dobrovitsky** — Fullstack Developer
+- **Lucas Dueñaz** — Investigación, redacción y estructura  
+- **Lior Tanel** — Fullstack Developer
 ---
 
 ## 📈 Algunos Números
@@ -117,10 +117,10 @@ Zooni no solo digitaliza, **humaniza**: cada mascota tiene una historia y la app
 
 ## 📬 Contacto
 
-📎 **LinkedIn (Theo Trosman):** [linkedin.com/in/theotrosman](https://www.linkedin.com/in/theotrosman/)  
-📎 **LinkedIn (Ignacio Eskenazi):** [linkedin.com/in/ignacioeskenazi](https://ar.linkedin.com/in/ignacio-eskenazi-96b639329)
-📎 **LinkedIn (Lior Tanel):** [linkedin.com/in/liortanel](https://www.linkedin.com/in/lior-tanel-725942320)
-📧 **Soporte:** support@zooni.info
+- 📎 **LinkedIn (Theo Trosman):** [linkedin.com/in/theotrosman](https://www.linkedin.com/in/theotrosman/)  
+- 📎 **LinkedIn (Ignacio Eskenazi):** [linkedin.com/in/ignacioeskenazi](https://ar.linkedin.com/in/ignacio-eskenazi-96b639329)
+- 📎 **LinkedIn (Lior Tanel):** [linkedin.com/in/liortanel](https://www.linkedin.com/in/lior-tanel-725942320)
+- 📧 **Soporte:** support@zooni.info
 
 ---
 
