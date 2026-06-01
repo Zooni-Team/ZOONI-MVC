@@ -115,15 +115,6 @@ Zooni no solo digitaliza, **humaniza**: cada mascota tiene una historia y la app
 
 ---
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.  
-Podés compartirlo y utilizarlo con atribución, **pero no está permitido modificarlo ni crear versiones derivadas.**
-
-📘 Más información: [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
-
----
-
 ## 📬 Contacto
 
 📎 **LinkedIn (Theo Trosman):** [linkedin.com/in/theotrosman](https://www.linkedin.com/in/theotrosman/)  
