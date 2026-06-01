@@ -120,7 +120,7 @@ Zooni no solo digitaliza, **humaniza**: cada mascota tiene una historia y la app
 - 📎 **LinkedIn (Theo Trosman):** [linkedin.com/in/theotrosman](https://www.linkedin.com/in/theotrosman/)  
 - 📎 **LinkedIn (Ignacio Eskenazi):** [linkedin.com/in/ignacioeskenazi](https://ar.linkedin.com/in/ignacio-eskenazi-96b639329)
 - 📎 **LinkedIn (Lior Tanel):** [linkedin.com/in/liortanel](https://www.linkedin.com/in/lior-tanel-725942320)
-- 📎 **LinkedIn (Santiago Dobrovitzky):** [(linkedin.com/in/santiago-dobrovitzky-52b150408/)
+- 📎 **LinkedIn (Santiago Dobrovitzky):** [[(linkedin.com/in/santiago-dobrovitzky-52b150408/)](https://www.linkedin.com/in/santiago-dobrovitzky-52b150408/)
 - 📧 **Soporte:** support@zooni.info
 
 ---
